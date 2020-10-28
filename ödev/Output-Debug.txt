@@ -1,0 +1,13 @@
+﻿'ödev.exe' (Win32): Loaded 'C:\Users\Kurtlar\source\repos\ahmetKurt_repo\ödev\x64\Debug\ödev.exe'. Symbols loaded.
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x1bf0 has exited with code 0 (0x0).
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'ödev.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x2ac8 has exited with code 0 (0x0).
+The thread 0x24c4 has exited with code 0 (0x0).
+The program '[18192] ödev.exe' has exited with code 0 (0x0).

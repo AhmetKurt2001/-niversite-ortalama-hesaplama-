@@ -1,0 +1,3 @@
+﻿  ödev.c
+C:\Users\Kurtlar\source\repos\ahmetKurt_repo\ödev\ödev\ödev.c(24,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ödev.vcxproj -> C:\Users\Kurtlar\source\repos\ahmetKurt_repo\ödev\x64\Debug\ödev.exe
