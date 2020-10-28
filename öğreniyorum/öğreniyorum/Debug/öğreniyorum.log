@@ -1,0 +1,4 @@
+﻿  ogreniyorum.c
+C:\Users\Kurtlar\source\repos\ahmetKurt_repo\öğreniyorum\öğreniyorum\ogreniyorum.c(28): error C4700: uninitialized local variable 'yuzde1' used
+C:\Users\Kurtlar\source\repos\ahmetKurt_repo\öğreniyorum\öğreniyorum\ogreniyorum.c(28): error C4700: uninitialized local variable 'yuzde2' used
+C:\Users\Kurtlar\source\repos\ahmetKurt_repo\öğreniyorum\öğreniyorum\ogreniyorum.c(28): error C4700: uninitialized local variable 'yuzde3' used
